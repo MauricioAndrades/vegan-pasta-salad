@@ -8,7 +8,7 @@
 [mock feta recipe](http://www.food.com/recipe/mock-feta-cheese-vegan-substitute-118182)
 
 ####Pasta Salad Recipe:
-* `2.1 cup orzo`
+* `2 cups orzo`
 * `1 oz sun-dried tomatoes in oil`(dice sundried tomatoes)
 * `1 recipe mock feta  (or 1.5-2 cups real feta) **see above for feta recipe link**`
 * `1/2 cup red onion, diced`
